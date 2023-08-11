@@ -129,7 +129,7 @@ export default function WafatInsight() {
   return (
     <>
       <Head>
-        <title>Kesehatan: Wafat</title>
+        <title>Mengetik: Stats</title>
       </Head>
       <div className="flex-grow max-w-full px-4 w-full">
         <div className="py-8 px-6 bg-white rounded-lg shadow-lg h-full">
